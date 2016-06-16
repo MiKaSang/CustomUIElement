@@ -1,0 +1,6 @@
+D:\_小屌丝物品\_学习与工作\二次开发\CustomUIElement\CustomUIElement\bin\Debug\CustomUIElement.dll
+D:\_小屌丝物品\_学习与工作\二次开发\CustomUIElement\CustomUIElement\bin\Debug\CustomUIElement.pdb
+D:\_小屌丝物品\_学习与工作\二次开发\CustomUIElement\CustomUIElement\obj\Debug\CustomUIElement.csprojResolveAssemblyReference.cache
+D:\_小屌丝物品\_学习与工作\二次开发\CustomUIElement\CustomUIElement\obj\Debug\CustomUIElement.dll
+D:\_小屌丝物品\_学习与工作\二次开发\CustomUIElement\CustomUIElement\obj\Debug\CustomUIElement.pdb
+D:\_小屌丝物品\_学习与工作\二次开发\CustomUIElement\CustomUIElement\bin\Debug\CustomUIElement.esriAddIn

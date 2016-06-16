@@ -1,0 +1,21 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>CustomUIElement</Name>
+  <AddInID>{6ae3b5c7-8584-4852-a8c8-09e90102399b}</AddInID>
+  <Description>Arcmap插件</Description>
+  <Version>1.0</Version>
+  <Image>Images\CustomUIElement.png</Image>
+  <Author>LP</Author>
+  <Company>Microsoft</Company>
+  <Date>2016/6/12</Date>
+  <Targets>
+    <Target name="Desktop" version="10.2" />
+  </Targets>
+  <AddIn language="CLR" library="CustomUIElement.dll" namespace="CustomUIElement">
+    <ArcMap>
+      <Commands>
+        <Button id="Microsoft_CustomUIElement_ZoomToLayer" class="ZoomToLayer" message="放大到图层" caption="放大到图层" tip="放大到图层" category="Add-In Controls" image="Images\ZoomToLayer.png" />
+        <Tool id="Microsoft_CustomUIElement_AddMultiLine" class="AddMultiLine" message="添加折线" caption="添加折线" tip="添加折线" category="Add-In Controls" image="Images\AddMultiLine.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>
